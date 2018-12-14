@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+print('EW THAT IS DISGUSTING '+ name + '!')
+Animal = input ('What is your favorite animal? ')
+print( 'A WHAT?! ' + Animal +'GROSS')
+subject = input ('What is your favorite subject in school?')
+print ('UGH , I hate ' + subject + 'I HATE EVERYTHING ')
